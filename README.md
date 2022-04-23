@@ -1,12 +1,12 @@
 # CMPE-255 Team Project
 
-## Team members:
 
-Chetan Nain (015761122)
 
-Lavesh Jain
-
-Vamsidhar Reddy Menthem (015999919)
+| Team Members | Id | GitHub User Name  |
+| ------ | ------ | ------ |
+| Chetan Nain | 015761122 | ChetanNain |
+| Lavesh Jain | 015017145  | Laveshjain 11 |
+| Vamsidhar Reddy Menthem | 0159999191 | vamsidhar18 |
 
 
 # Book Recommendation System 
@@ -23,4 +23,22 @@ In our solution we will be using Collaborative Filtering to recommend user books
 Ultimately, at the end, after achieving the desired results we will like to incorporate the hybrid approach in which we will try to leverage the deep learning to merge content based and collaborative filtering. This approach will help us in learning much fine grained interactions between the reader and books. 
 
 # Source Dataset:
-Goodreads API link: https://www.goodreads.com/api
+The dataset we are using has data for http://www2.informatik.uni-freiburg.de/~cziegler/BX/ 
+
+| Feature Name | Type | Description |
+| ------ | ------ |------ |
+| User-ID | Numerical | Costumer_User_ID |
+| ISBN | Numerical  | Book_Number |
+| Book-Rating | Numerical | Book_Rating|
+
+#Numerical Variables:
+User-ID
+ISBN
+Book-Rating
+
+#Methodology:
+Problem Type:  Multi Classification, Regression  (Supervised Learning)
+Algorithms: Collaborative Filtering
+
+
+
