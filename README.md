@@ -1,4 +1,4 @@
-# CMPE-255 Team Project
+# CMPE-255 Team-12 Project
 
 
 
@@ -31,10 +31,6 @@ The dataset links: http://www2.informatik.uni-freiburg.de/~cziegler/BX/ | https:
 | ISBN | Numerical  | Book_Number |
 | Book-Rating | Numerical | Book_Rating|
 
-## Numerical Variables:
-User-ID
-ISBN
-Book-Rating
 
 ## Methodology: Multi Classification, Regression  (Supervised Learning)
 ## Algorithms: Collaborative Filtering
