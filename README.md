@@ -20,3 +20,6 @@ Collecting the information of the books published and read over the world is a c
 We are going to extract the data about the available books and store it in a csv file. We plan to preprocess and clean the data before carrying out any analysis on it. We assume the data to be noisy and incomplete. We are planning to use statistical data cleaning techniques like mean, median, etc to fill out the incomplete data. Techniques like box plot can be used to identify outliers.   
 Recommendation systems can be divided into two categories: content-based and collaborative. In general, recommendation systems that use a content-based (CB) approach suggest things to a user that are comparable to those the user has previously favored. Collaborative filtering (CF) recommendation systems, on the other hand, forecast users' preferences by examining user relationships and item interdependencies and extrapolating new linkages from them. 
 In our solution we will be using Collaborative Filtering to recommend user books to select from and on top of it we are planning to do clustering of books to divide them into sections and present data to a user section wise.
+
+# Source Dataset:
+The dataset we are using has data for http://www2.informatik.uni-freiburg.de/~cziegler/BX/ 
