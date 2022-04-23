@@ -1,4 +1,4 @@
-# CMPE-255
+# CMPE-255 Team Project
 
 ## Team members:
 
