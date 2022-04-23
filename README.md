@@ -23,4 +23,4 @@ In our solution we will be using Collaborative Filtering to recommend user books
 Ultimately, at the end, after achieving the desired results we will like to incorporate the hybrid approach in which we will try to leverage the deep learning to merge content based and collaborative filtering. This approach will help us in learning much fine grained interactions between the reader and books. 
 
 # Source Dataset:
-The dataset we are using has data for http://www2.informatik.uni-freiburg.de/~cziegler/BX/ 
+Goodreads API link: https://www.goodreads.com/api
