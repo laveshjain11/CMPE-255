@@ -3,8 +3,11 @@
 ## Team members:
 
 Chetan Nain (015761122)
+
 Lavesh Jain
+
 Vamsidhar Reddy Menthem (015999919)
+
 
 # Book Recommendation System 
 
